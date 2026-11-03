@@ -71,7 +71,8 @@ Active members are classified as members who have attended at least 3 events, GB
 - **c.** The Vice President shall further perform such duties as may be necessary and proper in the fulfillment of his/her office, subject to the approval of the executive board.
 - **d.** If the President is unable to perform his/her duties (due to impeachment, leave of absence, or resignation), the Vice President shall assume the position of the President.
 - **e.** If the Vice President is unable to perform their duties (due to leave of absence, resignation, or impeachment), a new Vice President will be elected in a special election called by the President.
-- **f.** The Web Coordinator and the Project Quack Director report to the Vice President. The Vice President is responsible for making sure they are completing their tasks on schedule.
+- **f.** The Vice President shall be the primary point of contact between SBCS and Stony Brook University faculty and staff, including, but not limited to, the University President and the Office of the President, the CS Department, the College of Engineering and Applied Sciences, and University and departmental news sources.
+- **g.** The Web Coordinator and the Project Quack Director report to the Vice President. The Vice President is responsible for making sure they are completing their tasks on schedule.
 
 ### Section V: Treasurer
 
