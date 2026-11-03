@@ -14,9 +14,12 @@
      - **i.** If a committee member is set to graduate before the conclusion of the hackathon, they are prohibited from being a committee member
 2. The Hackathon Committee will comprise of the following positions: Hackathon Director, Hackathon Logistics Officers (x2), Hackathon Finance Officers (x2), Hackathon Communications Officers (x2), Hackathon Creative Director, Hackathon Creative Officers (x2).
    - **a.** These positions will be referred to as the position titles but may omit the "Hackathon" part of the name for ease of use.
-3. The Hackathon Committee must meet regularly, independent of the SBCS e-board, to discuss proceedings related to the hackathon.
+3. The Hackathon Committee must meet regularly, independent of the SBCS e-board, to discuss proceedings related to the hackathon. The SBCS Core 4 must also be present at these meetings (see Article VII of the SBCS Constitution).
 4. Members of the Hackathon Committee are prohibited from running in SBCS Elections in the spring unless they resign from the committee upon being elected to a new position.
    - **a.** In the event a Hackathon Committee member resigns, a new member will be appointed through a selection process called upon by either the Hackathon Director or the SBCS President.
+5. Relationship between SBUHacks and SBCS
+   - **a.** It is in SBUHacks' best interest to be run by its own leadership, its own "Core 4", interviewed and selected by the SBCS executive board and the previous Hackathon Committee (see Hackathon Committee Selection Process).
+   - **b.** For the longevity of both organizations and their community, SBUHacks and SBCS shall not split apart. On its own, SBUHacks is a one-time event and workload; as part of SBCS, it gains a lasting community and history.
 
 ## Committee Hierarchy
 

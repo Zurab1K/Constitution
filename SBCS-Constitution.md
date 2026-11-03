@@ -177,9 +177,12 @@ Active members are classified as members who have attended at least 3 events, GB
      - **i.** If a committee member is set to graduate before the conclusion of the hackathon, they are prohibited from being a committee member
 2. The Hackathon Committee will comprise of the following positions: Hackathon Director, Hackathon Logistics Officers (x2), Hackathon Finance Officers (x2), Hackathon Communications Officers (x2), Hackathon Creative Director, Hackathon Creative Officers (x2).
    - **a.** These positions will be referred to as the position titles but may omit the "Hackathon" part of the name for ease of use.
-3. The Hackathon Committee must meet regularly, independent of the SBCS e-board, to discuss proceedings related to the hackathon.
+3. The Hackathon Committee must meet regularly, independent of the SBCS e-board, to discuss proceedings related to the hackathon. The SBCS Core 4 must also be present at these meetings (see Article VII).
 4. Members of the Hackathon Committee are prohibited from running in SBCS Elections in the spring unless they resign from the committee upon being elected to a new position.
    - **a.** In the event a Hackathon Committee member resigns, a new member will be appointed through a selection process called upon by either the Hackathon Director or the SBCS President.
+5. Relationship between SBUHacks and SBCS
+   - **a.** It is in SBUHacks' best interest to be run by its own leadership, its own "Core 4", interviewed and selected by the SBCS executive board and the previous Hackathon Committee (see Section IX.H).
+   - **b.** For the longevity of both organizations and their community, SBUHacks and SBCS shall not split apart. On its own, SBUHacks is a one-time event and workload; as part of SBCS, it gains a lasting community and history.
 
 ### Section IX.A Committee Hierarchy
 
@@ -295,6 +298,10 @@ Active members are classified as members who have attended at least 3 events, GB
 - **a.** This organization shall hold a General Body Meeting weekly if possible, and at least one General Body meeting each month during the Fall or Spring semester is in session.
 - **b.** A quorum consisting of a majority of the total active voting membership is necessary for the transaction of any business at all meetings.
 - **c.** All meetings must have an agenda and five (5) school days prior notice of the meetings must be given to all organization members.
+- **d.** This organization shall hold a weekly Executive Board Meeting (EBM).
+  - **i.** The Social Media Manager, Graphic Designers, and Writing Specialist must attend EBM rather than holding separate PR team meetings, so that everyone is on the same page about deadlines and club concerns and miscommunication is avoided.
+  - **ii.** During pre-hackathon season, the Hackathon Committee shall give its updates first at EBM and leave promptly afterward. EBM shall continue to be 1.5 hours long during this period.
+  - **iii.** Only the Core 4 (the President, Vice President, Secretary, and Treasurer) are required to be present at both EBM and Hackathon Committee meetings.
 
 ## Article VIII – Elections
 
