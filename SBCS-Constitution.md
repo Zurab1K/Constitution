@@ -40,6 +40,12 @@ Therefore, the rules, regulations, and policies of Stony Brook University shall 
 
 Active members are classified as members who have attended at least 3 events, GBMs, or SBCS events in the last year or this current semester.
 
+### Section III: Member Conduct
+
+- **a.** All members are expected to be respectful to other members at all times.
+- **b.** Physical attacks against other members are unprofessional, inappropriate, and a bannable offense. A member who physically assaults another member is ineligible to hold an executive or non-executive board position or to participate in Executive Board Meetings (EBM).
+- **c.** The executive board reserves the right to deny any person entry to EBM.
+
 ## Article IV – Executive Board Positions
 
 ### Section I: General Requirements
