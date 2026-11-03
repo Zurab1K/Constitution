@@ -420,6 +420,7 @@ Active members are classified as members who have attended at least 3 events, GB
 
 - **a.** Amendments to this constitution may be introduced by any current officer, excluding the reps.
 - **b.** The entire board shall be notified in writing at least five (5) school days before voting on a proposed amendment. A majority vote of all members in office, including executive board and non-executive board but excluding reps, is necessary for the passage of an amendment.
+- **c.** The official, current version of this constitution is kept at <https://github.com/sbcs/Constitution>. Proposed amendments are submitted and updated there as pull requests, but votes on amendments are still presided over by the executive board as described above, and an amendment is added to the official version only after it passes.
 
 ## Article XII – Dissolution
 
