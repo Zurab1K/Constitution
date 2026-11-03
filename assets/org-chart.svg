@@ -20,7 +20,9 @@
   <!-- President to row 2 bus -->
   <path class="line" d="M580 112 V136 M22 136 H1030 M430 136 V160 M730 136 V160 M1030 136 V160"/>
   <!-- President's direct non-exec reports (bracket on the left) -->
-  <path class="line" d="M22 136 V308 M22 188 H40 M22 308 H40"/>
+  <path class="line" d="M22 136 V408 M22 188 H40 M22 408 H40"/>
+  <!-- Hackathon Director -> Hackathon Committee -->
+  <path class="line" d="M135 216 V280"/>
   <!-- Vice President bracket -->
   <path class="line" d="M430 216 V244 H317 V408 M317 308 H335 M317 408 H335"/>
   <!-- Secretary bracket -->
@@ -52,8 +54,12 @@
   <text x="135" y="204" class="t-sub">leads Hackathon Committee</text>
 
   <rect class="nonexec" x="40" y="280" width="190" height="56" rx="8"/>
-  <text x="135" y="306" class="t-ne">SIG Board Members</text>
-  <text x="135" y="324" class="t-sub">Special Interest Groups</text>
+  <text x="135" y="306" class="t-ne">Hackathon Committee</text>
+  <text x="135" y="324" class="t-sub">9 officers · Article V §IX</text>
+
+  <rect class="nonexec" x="40" y="380" width="190" height="56" rx="8"/>
+  <text x="135" y="406" class="t-ne">SIG Board Members</text>
+  <text x="135" y="424" class="t-sub">Special Interest Groups</text>
 
   <!-- Vice President reports -->
   <rect class="nonexec" x="335" y="280" width="190" height="56" rx="8"/>
@@ -63,6 +69,17 @@
   <rect class="nonexec" x="335" y="380" width="190" height="56" rx="8"/>
   <text x="430" y="406" class="t-ne">Project Quack Director</text>
   <text x="430" y="424" class="t-sub">mentorship program</text>
+
+  <!-- Project Quack Director -> Project Quack Mentors -->
+  <path class="line" d="M430 436 V480"/>
+  <rect class="nonexec" x="335" y="480" width="190" height="56" rx="8"/>
+  <text x="430" y="506" class="t-ne">Project Quack Mentors</text>
+  <text x="430" y="524" class="t-sub">mentor project teams</text>
+
+  <path class="line" d="M430 436 V480"/>
+  <rect class="nonexec" x="335" y="480" width="190" height="56" rx="8"/>
+  <text x="430" y="506" class="t-ne">Project Quack Mentors</text>
+  <text x="430" y="524" class="t-sub">mentor project teams</text>
 
   <!-- Secretary reports -->
   <rect class="nonexec" x="635" y="280" width="190" height="56" rx="8"/>

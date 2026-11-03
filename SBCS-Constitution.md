@@ -153,6 +153,7 @@ Active members are classified as members who have attended at least 3 events, GB
 - **a.** The responsibilities of the Project Quack Director shall include forming teams for the Project Quack Mentorship Program, communicating clear project goals and milestones to all those involved, checking with all project groups, planning Project Quack-specific events and meetings, and relaying all operations related to Project Quack to the rest of the office.
 - **b.** If a Project Quack Director is unable to perform their duties (due to leave of absence, resignation, or assumption of the presidency), a new Project Quack Director will be elected in a special election called by the President.
 - **c.** The Project Quack Director reports to the Vice President of this organization
+- **d.** Project Quack Mentors report to the Project Quack Director.
 
 ### Section VIII: Reps
 
