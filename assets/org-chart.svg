@@ -84,7 +84,7 @@
   <!-- Secretary reports -->
   <rect class="nonexec" x="635" y="280" width="190" height="56" rx="8"/>
   <text x="730" y="306" class="t-ne">Social Media Manager</text>
-  <text x="730" y="324" class="t-sub">socials · Discord · content</text>
+  <text x="730" y="324" class="t-sub">Instagram · LinkedIn · website</text>
 
   <rect class="nonexec" x="635" y="380" width="190" height="56" rx="8"/>
   <text x="730" y="406" class="t-ne">Graphic Designers</text>
@@ -92,7 +92,7 @@
 
   <rect class="nonexec" x="635" y="480" width="190" height="56" rx="8"/>
   <text x="730" y="506" class="t-ne">Writing Specialist</text>
-  <text x="730" y="524" class="t-sub">newsletters · LinkedIn</text>
+  <text x="730" y="524" class="t-sub">newsletters · major recaps</text>
 
   <!-- Treasurer reports -->
   <rect class="nonexec" x="935" y="280" width="190" height="56" rx="8"/>

@@ -101,7 +101,7 @@ Active members are classified as members who have attended at least 3 events, GB
 ### Section II: Social Media Manager
 
 1. The Social Media Manager is responsible for
-   - **a.** Managing SBCS Social Media as a representative of the organization.
+   - **a.** Managing SBCS Social Media, including Instagram and LinkedIn, as a representative of the organization.
      - **i.** Interacting with posts (responding to comments, reposting tagged posts, etc).
      - **ii.** Responding to Direct Messages.
    - **b.** Creating engaging short-form content in the form of reels or TikToks.
@@ -112,6 +112,8 @@ Active members are classified as members who have attended at least 3 events, GB
      - **ii.** Videographing important moments such as award ceremonies.
      - **iii.** Posting real-time event updates on social media
      - **iv.** Conduct impromptu interviews with members for content
+   - **f.** Posting content and event updates to the SBCS website, working with the Web Coordinator, who maintains the website itself.
+   - **g.** Posting the Writing Specialist's major event recaps to LinkedIn, Instagram, and the SBCS website.
 2. Report to the Secretary.
 
 ### Section III: Graphic Designers
@@ -132,7 +134,7 @@ Active members are classified as members who have attended at least 3 events, GB
    - **a.** Managing the SBCS Newsletters: General, Alumni, Sponsor
      - **i.** Outsource writing tasks to Reps if possible
      - **ii.** Primary responsibility is editorial
-   - **b.** Drafting and publishing regular LinkedIn updates for major events.
+   - **b.** Writing recaps of major events, which the Social Media Manager posts to LinkedIn, Instagram, and the SBCS website.
    - **c.** Drafting and publishing Discord announcements
 2. Report to the Secretary.
 
