@@ -61,19 +61,20 @@
 - **a.** There will be only 1 Creative Director
 - **b.** The Creative Director will be responsible for proposing a theme, reviewing all media/art, and advertising the hackathon.
 - **c.** The Creative Director will oversee the Creative Officers. In the event a Creative Officer is unable to perform their duties, the responsibilities will fall on the Creative Director.
-- **d.** The Creative Director will report to the Hackathon Director, the SBCS PR Officer, and the SBCS Branding Manager
+- **d.** The Creative Director will report to the Hackathon Director.
+- **e.** SBCS will help promote the hackathon, but all hackathon posts must come from a separate SBUHacks account so that SBCS's own accounts can continue with normally planned club activities.
 
 ## Creative Officers
 
 1. There will be 2 Creative Officers.
-2. The Creative Officers will be responsible for designing all art, creating promotional videos/photos, and posting information about the hackathon to all social media platforms (e.g. Instagram, Discord, LinkedIn, etc).
+2. The Creative Officers will be responsible for designing all art, creating promotional videos/photos, and posting information about the hackathon to all of the SBUHacks social media platforms (e.g. Instagram, Discord, LinkedIn, etc).
 3. The Creative Officers may also assist the Logistics Officers in creating the Devpost and Discord for the hackathon.
 4. The responsibilities of the Creative Officers may be divided between the 2 officers as per the skills, experiences, and workloads of the officers.
-5. The Creative Officers will report to the Creative Director, the Hackathon Director, and the SBCS PR Officer/Branding Manager in this order. In the event, a Creative Officer is unable to fulfill their responsibilities, the responsibilities will fall on the Creative Director until a new officer can be appointed.
+5. The Creative Officers will report to the Creative Director and the Hackathon Director in this order. In the event, a Creative Officer is unable to fulfill their responsibilities, the responsibilities will fall on the Creative Director until a new officer can be appointed.
 
 ## Hackathon Committee Selection Process
 
-1. The Hackathon Committee will be decided through an interview process conducted by the SBCS executive board, the SBCS PR Officer, the SBCS Branding Manager, and any previous Hackathon Committee members from the year prior that are not re-applying. This group of people will be referred to as the interviewers.
+1. The Hackathon Committee will be decided through an interview process conducted by the SBCS executive board and any previous Hackathon Committee members from the year prior that are not re-applying. This group of people will be referred to as the interviewers.
 2. This interview process must happen upon the conclusion of previous iteration of the hackathon
 3. The interview process will follow the basic steps:
    - **a.** Each applicant will be reviewed and may be offered an interview based on the judgements of the interviewers.

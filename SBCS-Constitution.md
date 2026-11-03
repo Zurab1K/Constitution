@@ -59,9 +59,9 @@ Active members are classified as members who have attended at least 3 events, GB
 
 - **a.** The President shall be the official representative of the organization; he/she shall also be a non-voting, ex-officio member of all committees of the organization. The President shall be the chairperson and presiding officer of the executive board.
 - **b.** The President shall have the power to convene and preside over the meetings of the executive board and the general body, as well as prepare the agenda for the respective meetings.
-- **c.** The President shall work together with the E-Board to delegate the work of the E-Board.
+- **c.** The President shall work together with the E-Board to delegate the work of the E-Board. The President delegates tasks to the Vice President, Secretary, and Treasurer, who are each responsible for making sure the positions reporting to them complete their tasks on schedule.
 - **d.** The President will be in charge of updating our advisors about our club and moderating communications with sponsors and external companies.
-- **e.** The President shall oversee the Special Interest Group board members
+- **e.** The President shall oversee the Special Interest Group board members and the Hackathon Director.
 - **f.** The President shall further perform such duties as may be necessary and proper in the fulfillment of their office, subject to the approval of the executive board.
 
 ### Section IV: Vice President
@@ -71,50 +71,33 @@ Active members are classified as members who have attended at least 3 events, GB
 - **c.** The Vice President shall further perform such duties as may be necessary and proper in the fulfillment of his/her office, subject to the approval of the executive board.
 - **d.** If the President is unable to perform his/her duties (due to impeachment, leave of absence, or resignation), the Vice President shall assume the position of the President.
 - **e.** If the Vice President is unable to perform their duties (due to leave of absence, resignation, or impeachment), a new Vice President will be elected in a special election called by the President.
+- **f.** The Web Coordinator and the Project Quack Director report to the Vice President. The Vice President is responsible for making sure they are completing their tasks on schedule.
 
 ### Section V: Treasurer
 
 - **a.** The Treasurer shall keep a detailed record of all monies allotted to the organization. The Treasurer shall also submit all payment requests.
 - **b.** The Treasurer shall perform such duties as may be necessary and proper in the fulfillment of his/her office, subject to the approval of the executive board.
 - **c.** If the Treasurer is unable to perform their duties (due to leave of absence, resignation, or impeachment), a new Treasurer will be elected in a special election called by the President.
-- **d.** The Event Coordinator reports to the Treasurer.
+- **d.** The Event Coordinator reports to the Treasurer. The Treasurer is responsible for making sure the Event Coordinator is completing their tasks on schedule.
 
 ### Section VI: Secretary
 
 - **a.** The Secretary shall take minutes and attendance of all meetings and maintain an up-to-date active voting membership roster.
 - **b.** The Secretary shall send out a weekly email, which outlines the agenda of the upcoming meeting, one school day before the meeting.
 - **c.** If the Secretary is unable to perform their duties (due to leave of absence, resignation, or impeachment), a new Secretary shall be elected in a special election called by the President
-- **d.** The Webmaster reports to the Secretary.
+- **d.** The Social Media Manager, Graphic Designers, and Writing Specialist report to the Secretary. The Secretary is responsible for making sure each of them is completing their tasks on schedule.
 
 ## Article V – Non-Executive Board Positions
 
 ### Section I: General Requirements
 
-- **a.** Non-executive board positions include the Branding Manager, Social Media Manager, Event Coordinator, Web Coordinator, Project Quack Director, and QuackHacks Director.
-- **b.** Non-executive board positions must report to one of the executive board members, as identified in the executive board members' responsibilities.
+- **a.** Non-executive board positions include the Social Media Manager, Graphic Designers (x2), Writing Specialist, Event Coordinator, Web Coordinator, Project Quack Director, and QuackHacks Director.
+- **b.** Non-executive board positions must report to one of the executive board members, as identified in the executive board members' responsibilities. The President delegates tasks, and the executive board member a position reports to is responsible for making sure that position completes its tasks on schedule. This applies at every level where more than one level of reporting exists.
 - **c.** Members holding a non-executive board position hold specific responsibilities with the organization, however, they are not a part of the executive board.
 - **d.** Members holding a non-executive board position must be matriculated, currently enrolled, and working toward an undergraduate degree unless otherwise approved by SEA in writing.
 - **e.** All non-executive board positions shall serve for 1 academic year.
 
-### Section II: The PR Officer
-
-1. The PR Officer will be a full-fledged e-board member of SBCS. They must fulfill all of the requirements of a normal e-board member and must fulfill the following responsibilities:
-   - **a.** Attend weekly e-board meetings and update the SBCS e-board with updates regarding the PR team.
-   - **b.** Meet frequently with the PR team, draft agendas, and lead meetings.
-   - **c.** Oversee all proceedings related to marketing and public relations within SBCS.
-2. All members of the PR team will report to the PR Officer. If any committee member is unable to fulfill their responsibilities, the PR Officer (in conjunction with the Branding Manager) will be in charge of the respective responsibilities until a new committee member can be appointed.
-3. The PR Officer is responsible for overseeing the Social Media Manager, Event Photographer, and Internal Promotions Manager roles.
-
-### Section III: Branding Manager
-
-1. The Branding Manager will be a full-fledged e-board member of SBCS. They must fulfill all of the requirements of a normal e-board member and must fulfill the following responsibilities:
-   - **a.** Attend weekly e-board meetings and update the SBCS e-board with updates regarding the PR team.
-   - **b.** Meet frequently with the PR team, draft agendas, and lead meetings.
-   - **c.** Oversee all proceedings related to creative direction and branding within SBCS.
-2. All members of the PR team will report to the Branding Manager. If any committee member is unable to fulfill their responsibilities, the Branding Manager (in conjunction with the PR Officer) will be in charge of the respective responsibilities until a new committee member can be appointed.
-3. The PR Officer is responsible for overseeing the Writing Specialist and Graphic Designer roles.
-
-### Section IV: Social Media Manager
+### Section II: Social Media Manager
 
 1. The Social Media Manager is responsible for
    - **a.** Managing SBCS Social Media as a representative of the organization.
@@ -128,34 +111,21 @@ Active members are classified as members who have attended at least 3 events, GB
      - **ii.** Videographing important moments such as award ceremonies.
      - **iii.** Posting real-time event updates on social media
      - **iv.** Conduct impromptu interviews with members for content
-2. Report to the PR Officer and Vice President.
+2. Report to the Secretary.
 
-### Section V: Internal Promotions Manager
+### Section III: Graphic Designers
 
-1. The Internal Promotions Manager is responsible for
-   - **a.** Reaching out to other organizations to promote SBCS events including, but not limited to:
-     - **i.** Other Stony Brook University Clubs
-     - **ii.** Professors and University Departments (e.g. CEAS)
-     - **iii.** Other universities and external organizations (incl. Outside Stony Brook University) with explicit approval of the SBCS executive board.
-   - **b.** Coordinate with professors to organize Class Visits
-     - **i.** Class visits are defined as promotional presentations in front of a class of students.
-     - **ii.** Class visits are conducted at the beginning of each semester, and before major events (e.g. SBUHacks, collaborations with external organizations).
-   - **c.** Organize Flyer distribution and physical marketing
-     - **i.** Schedule E-Board members (incl. Non SBCS PR) for printing and posting duties.
-     - **ii.** Fill any gaps in posting schedules.
-2. Report to the PR Officer and Vice President.
-
-### Section VI: Graphic Designer
-
-1. The Graphic Designer is responsible for
+1. There will be 2 Graphic Designers.
+2. The Graphic Designers are responsible for
    - **a.** Designing any graphics for SBCS promotion. Including but not limited to
      - **i.** Flyers
      - **ii.** Social Media Graphics
      - **iii.** Merchandise
      - **iv.** Website GUI Assets
-2. Report to the Branding Manager and Vice President
+3. The responsibilities of the Graphic Designers may be divided between the 2 designers as per the skills, experiences, and workloads of the designers.
+4. Report to the Secretary.
 
-### Section VII: Writing Specialist
+### Section IV: Writing Specialist
 
 1. The Writing Specialist is responsible for
    - **a.** Managing the SBCS Newsletters: General, Alumni, Sponsor
@@ -163,32 +133,33 @@ Active members are classified as members who have attended at least 3 events, GB
      - **ii.** Primary responsibility is editorial
    - **b.** Drafting and publishing regular LinkedIn updates for major events.
    - **c.** Drafting and publishing Discord announcements
-2. Report to the Branding Manager and Vice President
+2. Report to the Secretary.
 
-### Section VIII: Event Coordinator
+### Section V: Event Coordinator
 
 - **a.** The responsibilities of an Event coordinator include coordinating and planning SBCS events and collaborations, booking rooms on 25Live, submitting events on SBEngaged, and staying in contact with the club's program advisor from the Department of Student Engagement and Activities
 - **b.** If the Event Coordinator is unable to perform their duties (due to leave of absence, resignation, or assumption of the presidency), a new Event Coordinator will be elected in a special election called by the President.
 - **c.** The Event Coordinator reports to the Treasurer of this organization
 
-### Section IX: Web Coordinator
+### Section VI: Web Coordinator
 
 - **a.** The responsibilities of the Web Coordinator include creating, maintaining, and designing the SBCS website (<https://sbcs.io/>), as well as any websites needed for SBCS events.
 - **b.** If a Web Coordinator is unable to perform their duties (due to leave of absence, resignation, or assumption of the presidency), a new Web Coordinator will be elected in a special election called by the President.
-- **c.** The Web Coordinator reports to the Secretary of this organization
+- **c.** The Web Coordinator reports to the Vice President of this organization
 
-### Section X: Project Quack Director
+### Section VII: Project Quack Director
 
 - **a.** The responsibilities of the Project Quack Director shall include forming teams for the Project Quack Mentorship Program, communicating clear project goals and milestones to all those involved, checking with all project groups, planning Project Quack-specific events and meetings, and relaying all operations related to Project Quack to the rest of the office.
 - **b.** If a Project Quack Director is unable to perform their duties (due to leave of absence, resignation, or assumption of the presidency), a new Project Quack Director will be elected in a special election called by the President.
+- **c.** The Project Quack Director reports to the Vice President of this organization
 
-### Section XI: Reps
+### Section VIII: Reps
 
 - **a.** Reps, short for representatives, are extended e-board positions that are elected through an interview process in the early fall of the academic year
 - **b.** The responsibilities of a representative include assisting with event planning and hosting, which can involve coming up with event ideas, designing activities, and leading workshops.
 - **c.** If a Representative is unable to perform their duties (due to leave of absence, resignation, or assumption of the presidency), a new Representative will be elected in another interview process called by the President.
 
-### Section XII: Hackathon Committee
+### Section IX: Hackathon Committee
 
 #### General Requirements
 
@@ -206,14 +177,14 @@ Active members are classified as members who have attended at least 3 events, GB
 4. Members of the Hackathon Committee are prohibited from running in SBCS Elections in the spring unless they resign from the committee upon being elected to a new position.
    - **a.** In the event a Hackathon Committee member resigns, a new member will be appointed through a selection process called upon by either the Hackathon Director or the SBCS President.
 
-### Section XII.A Committee Hierarchy
+### Section IX.A Committee Hierarchy
 
 1. The Hackathon Committee hierarchy defines who reports to who and who will pick up responsibilities in the event a committee member becomes unable to fulfil their duties.
 2. See the below diagram that visualizes this hierarchy. Arrows pointing to a top position from a bottom position represent the bottom position reporting to the top position. The top position will pick up the responsibilities if the bottom position is unable to do so until a new committee member can be appointed.
 
 ![Hackathon Committee Hierarchy](assets/hackathon-hierarchy.svg)
 
-### Section XII.B Hackathon Director
+### Section IX.B Hackathon Director
 
 - **a.** The Hackathon Director is considered a member of the non-executive board for SBCS, and as such, must also fulfill the general requirements of the non-executive board.
   - **i.** The Hackathon Director is required to attend weekly meetings with the rest of the executive board.
@@ -223,13 +194,13 @@ Active members are classified as members who have attended at least 3 events, GB
 - **e.** All members of the Hackathon Committee will report to the Hackathon Director. If any committee member is unable to fulfill their responsibilities, the Hackathon Director will be in charge of the respective responsibilities until a new committee member can be appointed.
 - **f.** The Hackathon Director will report to the SBCS President. If a Hackathon Director is unable to fulfill their responsibilities, the SBCS President will be in charge of director's responsibilities until a new one can be appointed in a special election process called by the SBCS President
 
-### Section XII.C Logistics Officers
+### Section IX.C Logistics Officers
 
 - **a.** There will be 2 Logistics Officers
 - **b.** The Logistics Officers will be responsible for organizing the hackathon schedule, coordinating with event volunteers, coordinating collaborating clubs/on-campus organizations, creating and maintaining the hackathon Devpost, and creating the hackathon Discord.
 - **c.** The Logistics Officers will report to the Hackathon Director and the SBCS Secretary
 
-### Section XII.D Finance Officers
+### Section IX.D Finance Officers
 
 - **a.** There will be 2 Finance Officers.
 - **b.** The Finance Officers will be responsible for laying out the hackathon budget, prepping grant materials and presenting to the USG, and drafting invoice/placing orders.
@@ -237,31 +208,32 @@ Active members are classified as members who have attended at least 3 events, GB
 - **d.** The Finance Officers will be responsible for communicating with the SBCS Treasurer in regards to invoices, grants, and any usage of SBCS funds.
 - **e.** The Finance Officers will report to the Hackathon Director and the SBCS Treasurer.
 
-### Section XII.E Communications Officers
+### Section IX.E Communications Officers
 
 - **a.** There will be 2 Communication Officers.
 - **b.** The Communications Officers will be responsible for handling student inquiries about the event, procuring and coordinating judges, and communicating with venue management.
 - **c.** The Communications Officers will also be responsible for assisting the Hackathon Director in communication and outreach with external sponsors
 - **d.** The Communications Officers will report to the Hackathon Director and SBCS Vice President.
 
-### Section XII.F Creative Director
+### Section IX.F Creative Director
 
 - **a.** There will be only 1 Creative Director
 - **b.** The Creative Director will be responsible for proposing a theme, reviewing all media/art, and advertising the hackathon.
 - **c.** The Creative Director will oversee the Creative Officers. In the event a Creative Officer is unable to perform their duties, the responsibilities will fall on the Creative Director.
-- **d.** The Creative Director will report to the Hackathon Director, the SBCS PR Officer, and the SBCS Branding Manager
+- **d.** The Creative Director will report to the Hackathon Director.
+- **e.** SBCS will help promote the hackathon, but all hackathon posts must come from a separate SBUHacks account so that SBCS's own accounts can continue with normally planned club activities.
 
-### Section XII.G Creative Officers
+### Section IX.G Creative Officers
 
 1. There will be 2 Creative Officers.
-2. The Creative Officers will be responsible for designing all art, creating promotional videos/photos, and posting information about the hackathon to all social media platforms (e.g. Instagram, Discord, LinkedIn, etc).
+2. The Creative Officers will be responsible for designing all art, creating promotional videos/photos, and posting information about the hackathon to all of the SBUHacks social media platforms (e.g. Instagram, Discord, LinkedIn, etc).
 3. The Creative Officers may also assist the Logistics Officers in creating the Devpost and Discord for the hackathon.
 4. The responsibilities of the Creative Officers may be divided between the 2 officers as per the skills, experiences, and workloads of the officers.
-5. The Creative Officers will report to the Creative Director, the Hackathon Director, and the SBCS PR Officer/Branding Manager in this order. In the event, a Creative Officer is unable to fulfill their responsibilities, the responsibilities will fall on the Creative Director until a new officer can be appointed.
+5. The Creative Officers will report to the Creative Director and the Hackathon Director in this order. In the event, a Creative Officer is unable to fulfill their responsibilities, the responsibilities will fall on the Creative Director until a new officer can be appointed.
 
-### Section XII.H Hackathon Committee Selection Process
+### Section IX.H Hackathon Committee Selection Process
 
-1. The Hackathon Committee will be decided through an interview process conducted by the SBCS executive board, the SBCS PR Officer, the SBCS Branding Manager, and any previous Hackathon Committee members from the year prior that are not re-applying. This group of people will be referred to as the interviewers.
+1. The Hackathon Committee will be decided through an interview process conducted by the SBCS executive board and any previous Hackathon Committee members from the year prior that are not re-applying. This group of people will be referred to as the interviewers.
 2. This interview process must happen upon the conclusion of previous iteration of the hackathon
 3. The interview process will follow the basic steps:
    - **a.** Each applicant will be reviewed and may be offered an interview based on the judgements of the interviewers.

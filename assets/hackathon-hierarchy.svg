@@ -32,11 +32,11 @@
 
   <rect class="member" x="680" y="124" width="200" height="56" rx="8"/>
   <text x="780" y="150" class="t-mem">Creative Director</text>
-  <text x="780" y="168" class="t-sub">+ PR Officer, Branding Manager</text>
+  <text x="780" y="168" class="t-sub">posts via SBUHacks accounts</text>
 
   <rect class="member" x="680" y="204" width="200" height="56" rx="8"/>
   <text x="780" y="230" class="t-mem">Creative Officers</text>
-  <text x="780" y="248" class="t-sub">×2 · + PR Officer / Branding Mgr</text>
+  <text x="780" y="248" class="t-sub">×2</text>
 
-  <text x="20" y="286" class="t-sub" style="text-anchor:start">Lines show reporting within the committee. Each role's additional SBCS e-board contact is listed in its box.</text>
+  <text x="20" y="286" class="t-sub" style="text-anchor:start">Lines show reporting within the committee. Additional SBCS e-board contacts are listed in each box.</text>
 </svg>

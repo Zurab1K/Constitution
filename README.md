@@ -14,7 +14,7 @@ The current documents always live at the repo root under these fixed names, so l
 
 ![SBCS Organization Chart](assets/org-chart.svg)
 
-**Core 4** (the executive board) is the President, Vice President, Secretary, and Treasurer. **EBMs** (the PR Officer and Branding Manager) are full-fledged e-board members. Everyone else is non-executive board and reports to the e-board member shown above them. For example, the Event Coordinator reports to the Treasurer (Article IV, Section V). See [Section XII](SBCS-Constitution.md#section-xiia-committee-hierarchy) for the Hackathon Committee's internal hierarchy.
+**Core 4** (the executive board) is the President, Vice President, Secretary, and Treasurer. The President delegates tasks, and each Core 4 member makes sure the non-executive roles under them complete their tasks on schedule. For example, the Event Coordinator reports to the Treasurer (Article IV, Section V). See [Article V, Section IX.A](SBCS-Constitution.md#section-ixa-committee-hierarchy) for the Hackathon Committee's internal hierarchy.
 
 ## Markdown is the source; PDFs are generated
 
