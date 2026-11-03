@@ -3,18 +3,41 @@ This repository serves as the official, version-controlled home of the Stony Bro
 
 ## Current versions
 
-- **SBCS Constitution (2026-2027):** [`SBCS-Constitution.pdf`](SBCS-Constitution.pdf)
-- **Hackathon Committee Constitution:** [`Hackathon-Committee-Constitution.pdf`](Hackathon-Committee-Constitution.pdf)
+| Document | Read on GitHub | PDF |
+| --- | --- | --- |
+| **SBCS Constitution (2026-2027)** | [`SBCS-Constitution.md`](SBCS-Constitution.md) | [`SBCS-Constitution.pdf`](SBCS-Constitution.pdf) |
+| **Hackathon Committee Constitution** | [`Hackathon-Committee-Constitution.md`](Hackathon-Committee-Constitution.md) | [`Hackathon-Committee-Constitution.pdf`](Hackathon-Committee-Constitution.pdf) |
 
 The current documents always live at the repo root under these fixed names, so links to them never break.
+
+## Organization chart
+
+![SBCS Organization Chart](assets/org-chart.svg)
+
+**Core 4** (the executive board) is the President, Vice President, Secretary, and Treasurer. **EBMs** (the PR Officer and Branding Manager) are full-fledged e-board members. Everyone else is non-executive board and reports to the e-board member shown above them. For example, the Event Coordinator reports to the Treasurer (Article IV, Section V). See [Section XII](SBCS-Constitution.md#section-xiia-committee-hierarchy) for the Hackathon Committee's internal hierarchy.
+
+## Markdown is the source; PDFs are generated
+
+The Markdown files are the source of truth. Edit them, never the PDFs, so every amendment shows up as a readable line-by-line diff in its PR. The PDFs are rendered from the Markdown:
+
+```bash
+./scripts/build-pdf.sh                      # rebuild all current PDFs
+./scripts/build-pdf.sh SBCS-Constitution.md # rebuild one
+```
+
+This requires [pandoc](https://pandoc.org/) and Google Chrome or Chromium. Page styling lives in `scripts/pdf.css`. Commit the regenerated PDF in the same PR as the Markdown change.
 
 ## Repository structure
 
 ```
 Constitution/
 ├── README.md
-├── SBCS-Constitution.pdf                  ← current SBCS Constitution (2026-2027)
-├── Hackathon-Committee-Constitution.pdf   ← current Hackathon Committee Constitution
+├── SBCS-Constitution.md                   ← current SBCS Constitution (2026-2027), source
+├── SBCS-Constitution.pdf                  ← generated from the .md
+├── Hackathon-Committee-Constitution.md    ← current Hackathon Committee Constitution, source
+├── Hackathon-Committee-Constitution.pdf   ← generated from the .md
+├── assets/                                ← logo, org chart, hackathon hierarchy (SVG)
+├── scripts/                               ← build-pdf.sh + pdf.css
 ├── SpecialInterestGroup/                  ← SIG proposals and documentation
 └── archive/
     └── 2025-2026/
@@ -26,8 +49,8 @@ Constitution/
 When a new version is adopted (e.g. at the start of the academic year):
 
 1. Create `archive/<year>/` for the academic year the outgoing version was in effect (e.g. `archive/2026-2027/`).
-2. Move the outgoing documents into that folder, keeping their file names.
-3. Put the new versions at the repo root under the same fixed names (`SBCS-Constitution.pdf`, `Hackathon-Committee-Constitution.pdf`).
+2. Move the outgoing `.md` and `.pdf` files into that folder, keeping their file names.
+3. Put the new versions at the repo root under the same fixed names, then run `./scripts/build-pdf.sh`.
 4. Update the year in **Current versions** above and tag the release (see **Versioning** below).
 
 ## Branch & PR conventions

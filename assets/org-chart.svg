@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1300 640" width="1300" height="640" font-family="Helvetica, Arial, sans-serif">
+  <title>SBCS Organization Chart (2026-2027)</title>
+  <rect width="1300" height="640" fill="#ffffff"/>
+
+  <style>
+    .core   { fill: #1d4ed8; stroke: #1e3a8a; stroke-width: 1.5; }
+    .ebm    { fill: #60a5fa; stroke: #1d4ed8; stroke-width: 1.5; }
+    .nonexec{ fill: #ffffff; stroke: #1d4ed8; stroke-width: 1.5; }
+    .reps   { fill: #f1f5f9; stroke: #94a3b8; stroke-width: 1.5; stroke-dasharray: 6 4; }
+    .line   { stroke: #334155; stroke-width: 1.6; fill: none; }
+    .t-core { fill: #ffffff; font-size: 16px; font-weight: 700; text-anchor: middle; }
+    .t-ebm  { fill: #0f172a; font-size: 16px; font-weight: 700; text-anchor: middle; }
+    .t-ne   { fill: #0f172a; font-size: 15px; font-weight: 600; text-anchor: middle; }
+    .t-sub  { fill: #475569; font-size: 12px; text-anchor: middle; }
+    .t-subw { fill: #dbeafe; font-size: 12px; text-anchor: middle; }
+    .t-leg  { fill: #0f172a; font-size: 13px; }
+    .t-head { fill: #0f172a; font-size: 22px; font-weight: 700; text-anchor: middle; }
+  </style>
+
+  <text x="650" y="34" class="t-head">SBCS Organization Chart (2026-2027)</text>
+
+  <!-- Connectors: President to row 2 bus -->
+  <path class="line" d="M650 112 V136 M22 136 H1185 M345 136 V160 M555 136 V160 M765 136 V160 M975 136 V160 M1185 136 V160"/>
+  <!-- President's direct non-exec reports (bracket on the left) -->
+  <path class="line" d="M22 136 V428 M22 188 H40 M22 308 H40 M22 428 H40"/>
+  <!-- Secretary -> Web Coordinator, Treasurer -> Event Coordinator -->
+  <path class="line" d="M555 216 V280 M765 216 V280"/>
+  <!-- PR Officer bracket -->
+  <path class="line" d="M975 216 V244 H871 V428 M871 308 H885 M871 428 H885"/>
+  <!-- Branding Manager bracket -->
+  <path class="line" d="M1185 216 V244 H1081 V428 M1081 308 H1095 M1081 428 H1095"/>
+
+  <!-- Row 1: President -->
+  <rect class="core" x="550" y="56" width="200" height="56" rx="8"/>
+  <text x="650" y="82" class="t-core">President</text>
+  <text x="650" y="100" class="t-subw">Core 4 · chairs the e-board</text>
+
+  <!-- Row 2: Core 4 + EBMs -->
+  <rect class="core" x="255" y="160" width="180" height="56" rx="8"/>
+  <text x="345" y="186" class="t-core">Vice President</text>
+  <text x="345" y="204" class="t-subw">Core 4</text>
+
+  <rect class="core" x="465" y="160" width="180" height="56" rx="8"/>
+  <text x="555" y="186" class="t-core">Secretary</text>
+  <text x="555" y="204" class="t-subw">Core 4</text>
+
+  <rect class="core" x="675" y="160" width="180" height="56" rx="8"/>
+  <text x="765" y="186" class="t-core">Treasurer</text>
+  <text x="765" y="204" class="t-subw">Core 4</text>
+
+  <rect class="ebm" x="885" y="160" width="180" height="56" rx="8"/>
+  <text x="975" y="186" class="t-ebm">PR Officer</text>
+  <text x="975" y="204" class="t-sub" style="fill:#1e3a8a">EBM</text>
+
+  <rect class="ebm" x="1095" y="160" width="180" height="56" rx="8"/>
+  <text x="1185" y="186" class="t-ebm">Branding Manager</text>
+  <text x="1185" y="204" class="t-sub" style="fill:#1e3a8a">EBM</text>
+
+  <!-- President's direct reports -->
+  <rect class="nonexec" x="40" y="160" width="180" height="56" rx="8"/>
+  <text x="130" y="186" class="t-ne">Hackathon Director</text>
+  <text x="130" y="204" class="t-sub">leads Hackathon Committee</text>
+
+  <rect class="nonexec" x="40" y="280" width="180" height="56" rx="8"/>
+  <text x="130" y="306" class="t-ne">SIG Board Members</text>
+  <text x="130" y="324" class="t-sub">Special Interest Groups</text>
+
+  <rect class="nonexec" x="40" y="400" width="180" height="56" rx="8"/>
+  <text x="130" y="426" class="t-ne">Project Quack Director</text>
+  <text x="130" y="444" class="t-sub">reporting line not specified *</text>
+
+  <!-- VP note -->
+  <text x="345" y="244" class="t-sub">oversees standing committee chairs;</text>
+  <text x="345" y="260" class="t-sub">co-supervises the PR team †</text>
+
+  <!-- Secretary / Treasurer reports -->
+  <rect class="nonexec" x="465" y="280" width="180" height="56" rx="8"/>
+  <text x="555" y="306" class="t-ne">Web Coordinator</text>
+  <text x="555" y="324" class="t-sub">sbcs.io + event sites</text>
+
+  <rect class="nonexec" x="675" y="280" width="180" height="56" rx="8"/>
+  <text x="765" y="306" class="t-ne">Event Coordinator</text>
+  <text x="765" y="324" class="t-sub">25Live · SBEngaged · SEA</text>
+
+  <!-- PR Officer reports -->
+  <rect class="nonexec" x="885" y="280" width="180" height="56" rx="8"/>
+  <text x="975" y="306" class="t-ne">Social Media Manager</text>
+  <text x="975" y="324" class="t-sub">+ Vice President †</text>
+
+  <rect class="nonexec" x="885" y="400" width="180" height="56" rx="8"/>
+  <text x="975" y="420" class="t-ne">Internal Promotions</text>
+  <text x="975" y="437" class="t-ne">Manager</text>
+  <text x="975" y="452" class="t-sub">+ Vice President †</text>
+
+  <!-- Branding Manager reports -->
+  <rect class="nonexec" x="1095" y="280" width="180" height="56" rx="8"/>
+  <text x="1185" y="306" class="t-ne">Graphic Designer</text>
+  <text x="1185" y="324" class="t-sub">+ Vice President †</text>
+
+  <rect class="nonexec" x="1095" y="400" width="180" height="56" rx="8"/>
+  <text x="1185" y="426" class="t-ne">Writing Specialist</text>
+  <text x="1185" y="444" class="t-sub">+ Vice President †</text>
+
+  <!-- Reps -->
+  <rect class="reps" x="255" y="490" width="1020" height="50" rx="8"/>
+  <text x="765" y="512" class="t-ne">Reps (extended e-board, chosen by interview each September)</text>
+  <text x="765" y="530" class="t-sub">assist with event planning and hosting: event ideas, activities, workshops</text>
+
+  <!-- Legend -->
+  <rect class="core" x="40" y="572" width="22" height="16" rx="3"/>
+  <text x="70" y="585" class="t-leg">Core 4 (executive board)</text>
+  <rect class="ebm" x="260" y="572" width="22" height="16" rx="3"/>
+  <text x="290" y="585" class="t-leg">EBM (full-fledged e-board member)</text>
+  <rect class="nonexec" x="540" y="572" width="22" height="16" rx="3"/>
+  <text x="570" y="585" class="t-leg">Non-executive board</text>
+  <rect class="reps" x="740" y="572" width="22" height="16" rx="3"/>
+  <text x="770" y="585" class="t-leg">Reps</text>
+  <text x="40" y="614" class="t-sub" style="text-anchor:start">Lines show who reports to whom (Articles IV–VI).  † PR team roles also report to the Vice President.  * The constitution does not name who the Project Quack Director reports to; shown under the President, who calls its special elections.</text>
+</svg>
