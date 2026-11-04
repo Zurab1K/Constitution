@@ -1,42 +1,43 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" font-family="Helvetica, Arial, sans-serif">
-  <title>Hackathon Committee Hierarchy</title>
-  <rect width="900" height="300" fill="#ffffff"/>
-
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 370" width="960" height="370" font-family="Helvetica, Arial, sans-serif" role="img" aria-labelledby="title desc">
+  <title id="title">Hackathon Committee Hierarchy</title>
+  <desc id="desc">Officers report through two Deputy Hackathon Directors to the Hackathon Director, who reports to the SBCS President. Logistics and Finance report through one deputy; Communications and Creative through the other. Arrows point from each reporting role to its supervisor. Additional SBCS board contacts are listed in each officer box.</desc>
+  <rect width="960" height="370" fill="#ffffff"/>
+  <defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#334155"/></marker></defs>
   <style>
-    .lead   { fill: #1d4ed8; stroke: #1e3a8a; stroke-width: 1.5; }
+    .lead { fill: #1d4ed8; stroke: #1e3a8a; stroke-width: 1.5; }
     .member { fill: #ffffff; stroke: #1d4ed8; stroke-width: 1.5; }
-    .line   { stroke: #334155; stroke-width: 1.6; fill: none; }
-    .t-lead { fill: #ffffff; font-size: 16px; font-weight: 700; text-anchor: middle; }
-    .t-mem  { fill: #0f172a; font-size: 15px; font-weight: 600; text-anchor: middle; }
-    .t-sub  { fill: #475569; font-size: 12px; text-anchor: middle; }
-    .t-subw { fill: #dbeafe; font-size: 12px; text-anchor: middle; }
+    .line { stroke: #334155; stroke-width: 1.6; fill: none; marker-end: url(#arrow); }
+    .t-lead { fill: #ffffff; font-size: 17px; font-weight: 700; text-anchor: middle; }
+    .t-mem { fill: #0f172a; font-size: 16px; font-weight: 600; text-anchor: middle; }
+    .t-sub { fill: #475569; font-size: 13px; text-anchor: middle; }
+    .t-subw { fill: #dbeafe; font-size: 14px; text-anchor: middle; }
   </style>
-
-  <path class="line" d="M450 76 V100 M120 100 H780 M120 100 V124 M340 100 V124 M560 100 V124 M780 100 V124 M780 180 V204"/>
-
-  <rect class="lead" x="345" y="20" width="210" height="56" rx="8"/>
-  <text x="450" y="46" class="t-lead">Hackathon Director</text>
-  <text x="450" y="64" class="t-subw">reports to SBCS President</text>
-
-  <rect class="member" x="20" y="124" width="200" height="56" rx="8"/>
-  <text x="120" y="150" class="t-mem">Communications Officers</text>
-  <text x="120" y="168" class="t-sub">×2 · + SBCS Vice President</text>
-
-  <rect class="member" x="240" y="124" width="200" height="56" rx="8"/>
-  <text x="340" y="150" class="t-mem">Finance Officers</text>
-  <text x="340" y="168" class="t-sub">×2 · + SBCS Treasurer</text>
-
-  <rect class="member" x="460" y="124" width="200" height="56" rx="8"/>
-  <text x="560" y="150" class="t-mem">Logistics Officers</text>
-  <text x="560" y="168" class="t-sub">×2 · + SBCS Secretary</text>
-
-  <rect class="member" x="680" y="124" width="200" height="56" rx="8"/>
-  <text x="780" y="150" class="t-mem">Creative Director</text>
-  <text x="780" y="168" class="t-sub">+ PR Officer, Branding Manager</text>
-
-  <rect class="member" x="680" y="204" width="200" height="56" rx="8"/>
-  <text x="780" y="230" class="t-mem">Creative Officers</text>
-  <text x="780" y="248" class="t-sub">×2 · + PR Officer / Branding Mgr</text>
-
-  <text x="20" y="286" class="t-sub" style="text-anchor:start">Lines show reporting within the committee. Each role's additional SBCS e-board contact is listed in its box.</text>
+  <path class="line" d="M240 142 L430 82"/>
+  <path class="line" d="M720 142 L530 82"/>
+  <path class="line" d="M125 262 L215 212"/>
+  <path class="line" d="M355 262 L265 212"/>
+  <path class="line" d="M605 262 L695 212"/>
+  <path class="line" d="M835 262 L745 212"/>
+  <rect class="lead" x="340" y="20" width="280" height="62" rx="8"/>
+  <text x="480" y="47" class="t-lead">Hackathon Director</text>
+  <text x="480" y="68" class="t-subw">reports to SBCS President</text>
+  <rect class="lead" x="70" y="142" width="340" height="70" rx="8"/>
+  <text x="240" y="171" class="t-lead">Deputy Hackathon Director</text>
+  <text x="240" y="195" class="t-subw">Logistics and Finance</text>
+  <rect class="lead" x="550" y="142" width="340" height="70" rx="8"/>
+  <text x="720" y="171" class="t-lead">Deputy Hackathon Director</text>
+  <text x="720" y="195" class="t-subw">Communications and Creative</text>
+  <rect class="member" x="15" y="262" width="220" height="62" rx="8"/>
+  <text x="125" y="288" class="t-mem">Logistics Officers (x2)</text>
+  <text x="125" y="310" class="t-sub">+ SBCS Secretary</text>
+  <rect class="member" x="245" y="262" width="220" height="62" rx="8"/>
+  <text x="355" y="288" class="t-mem">Finance Officers (x2)</text>
+  <text x="355" y="310" class="t-sub">+ SBCS Treasurer</text>
+  <rect class="member" x="485" y="262" width="240" height="62" rx="8"/>
+  <text x="605" y="288" class="t-mem">Communications Officers (x2)</text>
+  <text x="605" y="310" class="t-sub">+ SBCS Vice President</text>
+  <rect class="member" x="735" y="262" width="210" height="62" rx="8"/>
+  <text x="840" y="288" class="t-mem">Creative Officers (x2)</text>
+  <text x="840" y="310" class="t-sub">+ PR Officer / Branding Manager</text>
+  <text x="480" y="353" class="t-sub">Arrows point to the reporting role's supervisor. Additional SBCS board contacts are listed in the boxes.</text>
 </svg>
