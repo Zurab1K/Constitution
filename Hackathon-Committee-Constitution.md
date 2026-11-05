@@ -62,8 +62,10 @@
 
 1. There will be 2 External Outreach Officers.
 2. The External Outreach Officers will be responsible for handling student inquiries about the event, procuring and coordinating judges, and communicating with venue management.
-3. The External Outreach Officers will also be responsible for assisting the Hackathon Director in communication and outreach with external sponsors
-4. The External Outreach Officers will report to the Deputy Hackathon Director overseeing External Outreach and Creative, the Hackathon Director, and the SBCS Vice President.
+3. The External Outreach Officers will also be responsible for assisting the Hackathon Director in communication and outreach with external sponsors.
+4. The External Outreach Officers will keep the Deputy Hackathon Director overseeing External Outreach and Creative and the Hackathon Director updated on all emails and tasks related to their responsibilities.
+5. The External Outreach Officers will confirm all external communications with the Deputy Hackathon Director overseeing External Outreach and Creative and the Hackathon Director before they are sent.
+6. The External Outreach Officers will report to the Deputy Hackathon Director overseeing External Outreach and Creative, the Hackathon Director, and the SBCS Vice President.
 
 ## Section XII.G Creative Officers
 
