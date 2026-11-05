@@ -12,7 +12,7 @@
    - **d.** Have at least a 2.5 GPA
    - **e.** Serve as a committee member from the time of their appointment until all hackathon-related responsibilities, including post-event duties, have been completed.
      - **i.** If a committee member is expected to graduate before the completion of all hackathon-related responsibilities, including post-event duties, they are ineligible to serve on the committee.
-2. The Hackathon Committee will comprise of the following positions: Hackathon Director, Deputy Hackathon Directors (x2), Hackathon Logistics Officers (x2), Hackathon Finance Officers (x2), Hackathon Communications Officers (x2), Hackathon Creative Officers (x2).
+2. The Hackathon Committee will comprise of the following positions: Hackathon Director, Deputy Hackathon Directors (x2), Hackathon Logistics Officers (x2), Hackathon Finance Officers (x2), Hackathon External Outreach Officers (x2), Hackathon Creative Officers (x2).
    - **a.** These positions will be referred to as the position titles but may omit the “Hackathon” part of the name for ease of use.
 3. The Hackathon Committee must meet regularly, independent of the SBCS e-board, to discuss proceedings related to the hackathon.
 4. Members of the Hackathon Committee are prohibited from running in SBCS Elections in the spring unless they resign from the committee upon being elected to a new position.
@@ -31,17 +31,17 @@
    - **a.** The Hackathon Director is required to attend weekly meetings with the rest of the executive board.
 2. The Hackathon Director must communicate to the rest of the executive board on all proceedings and planning happening within the hackathon committee.
 3. The Hackathon Director must oversee the hackathon committee, lead committee meetings, review all proceedings related to the hackathon, delegate tasks to the committee as necessary, and ensure the committee is meeting required deadlines.
-4. The Hackathon Director must also communicate with any external sponsors with the help of the Communications Officers.
+4. The Hackathon Director must also communicate with any external sponsors with the help of the External Outreach Officers.
 5. All members of the Hackathon Committee will report to the Hackathon Director through their respective Deputy Hackathon Directors. If a committee member is unable to fulfill their responsibilities, the respective Deputy Hackathon Director will temporarily oversee those responsibilities until a replacement can be appointed. If a Deputy Hackathon Director is unable to fulfill their responsibilities, the Hackathon Director will be in charge of those responsibilities until a replacement can be appointed.
 6. The Hackathon Director will report to the SBCS President. If a Hackathon Director is unable to fulfill their responsibilities, the SBCS President will be in charge of director’s responsibilities until a new one can be appointed in a special election process called by the SBCS President
 
 ## Section XII.C Deputy Hackathon Directors
 
 1. There will be 2 Deputy Hackathon Directors.
-2. One Deputy Hackathon Director will oversee the Logistics Officers and Finance Officers, while the other will oversee the Communications Officers and Creative Officers.
+2. One Deputy Hackathon Director will oversee the Logistics Officers and Finance Officers, while the other will oversee the External Outreach Officers and Creative Officers.
 3. The Deputy Hackathon Directors will be responsible for supervising their respective officers, coordinating tasks, monitoring progress, and ensuring deadlines are met.
 4. The Deputy Hackathon Directors will assist the Hackathon Director in planning and organizing the hackathon and carry out additional responsibilities as assigned by the Hackathon Director.
-5. The Deputy Hackathon Director overseeing Communications and Creative will also be responsible for proposing the hackathon theme, reviewing promotional materials, and overseeing advertising efforts.
+5. The Deputy Hackathon Director overseeing External Outreach and Creative will also be responsible for proposing the hackathon theme, reviewing promotional materials, and overseeing advertising efforts.
 6. The Deputy Hackathon Directors will report directly to the Hackathon Director. If an officer is unable to fulfill their responsibilities, the respective Deputy Hackathon Director will temporarily oversee those responsibilities until a replacement can be appointed.
 
 ## Section XII.D Logistics Officers
@@ -58,12 +58,12 @@
 4. The Finance Officers will be responsible for communicating with the SBCS Treasurer in regards to invoices, grants, and any usage of SBCS funds.
 5. The Finance Officers will report to the Deputy Hackathon Director overseeing Logistics and Finance, the Hackathon Director, and the SBCS Treasurer.
 
-## Section XII.F Communications Officers
+## Section XII.F External Outreach Officers
 
-1. There will be 2 Communications Officers.
-2. The Communications Officers will be responsible for handling student inquiries about the event, procuring and coordinating judges, and communicating with venue management.
-3. The Communications Officers will also be responsible for assisting the Hackathon Director in communication and outreach with external sponsors
-4. The Communications Officers will report to the Deputy Hackathon Director overseeing Communications and Creative, the Hackathon Director, and the SBCS Vice President.
+1. There will be 2 External Outreach Officers.
+2. The External Outreach Officers will be responsible for handling student inquiries about the event, procuring and coordinating judges, and communicating with venue management.
+3. The External Outreach Officers will also be responsible for assisting the Hackathon Director in communication and outreach with external sponsors
+4. The External Outreach Officers will report to the Deputy Hackathon Director overseeing External Outreach and Creative, the Hackathon Director, and the SBCS Vice President.
 
 ## Section XII.G Creative Officers
 
@@ -71,7 +71,7 @@
 2. The Creative Officers will be responsible for designing all art, creating promotional videos/photos, and posting information about the hackathon to all social media platforms (e.g. Instagram, Discord, LinkedIn, etc).
 3. The Creative Officers may also assist the Logistics Officers in creating the Devpost and Discord for the hackathon.
 4. The responsibilities of the Creative Officers may be divided between the 2 officers as per the skills, experiences, and workloads of the officers.
-5. The Creative Officers will report to the Deputy Hackathon Director overseeing Communications and Creative, the Hackathon Director, and the SBCS PR Officer/Branding Manager in this order. In the event a Creative Officer is unable to fulfill their responsibilities, the responsibilities will fall on that Deputy Hackathon Director until a new officer can be appointed.
+5. The Creative Officers will report to the Deputy Hackathon Director overseeing External Outreach and Creative, the Hackathon Director, and the SBCS PR Officer/Branding Manager in this order. In the event a Creative Officer is unable to fulfill their responsibilities, the responsibilities will fall on that Deputy Hackathon Director until a new officer can be appointed.
 
 ## Section XII.H Hackathon Committee Selection Process
 
@@ -87,7 +87,7 @@
      - **ii.** Deputy Hackathon Directors
      - **iii.** Logistics Officers
      - **iv.** Finance Officers
-     - **v.** Communications Officers
+     - **v.** External Outreach Officers
      - **vi.** Creative Officers
 4. Any applicant for the Hackathon Committee must:
    - **a.** Apply for a maximum of 3 positions and rank their choices in order of preference
